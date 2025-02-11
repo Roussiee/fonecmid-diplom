@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="569745f1-8053-4cb5-8d77-a7b475f7d0dd">
+  <name>ВКМ_МассовоеСозданиеДокументовРеализацияТоваровУслуг</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ массовое создание документов реализация товаров услуг</value>
+  </synonym>
+</mdclass:Role>

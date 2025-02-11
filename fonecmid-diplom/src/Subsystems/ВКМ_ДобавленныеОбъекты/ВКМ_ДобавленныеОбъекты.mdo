@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="48633f04-f4c7-4294-b385-c8a123582bc2">
+  <name>ВКМ_ДобавленныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавленные объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Role.ВКМ_ОбслуживаниеКлиентов</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Constant.ВКМ_ТокенТГБот</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыТГ</content>
+  <content>Catalog.ВКМ_УведомленияТГБот</content>
+  <content>CommonModule.ВКМ_ИнтеграцияТГ</content>
+  <content>CommonModule.ВКМ_ОтправкаСообщения</content>
+  <content>ScheduledJob.ВКМ_ОтправкаУведомленийВТГ</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>Catalog.ВКМ_Подразделения</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеКОплатеРаботы</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>AccumulationRegister.ВКМ_ДниОтпуска</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <subsystems>ВКМ_ОбслуживаниеКлиентов</subsystems>
+</mdclass:Subsystem>
