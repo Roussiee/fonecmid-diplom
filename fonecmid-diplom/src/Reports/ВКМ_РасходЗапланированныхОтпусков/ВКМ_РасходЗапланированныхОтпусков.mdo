@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1494bc11-3550-45b7-bc03-f77e5fd62cd1">
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b0f42620-ee96-46d8-a4cc-d4ff5ccf2461">
   <producedTypes>
-    <objectType typeId="8b3ba482-f5f7-42af-adaf-c4032fcac514" valueTypeId="6122f235-9b8f-4137-9b5a-ba341726a3d0"/>
-    <managerType typeId="03fd814a-044d-44f4-ad79-d64f468c88d4" valueTypeId="7fd36939-3e28-4654-be4b-f771105bb148"/>
+    <objectType typeId="8bda7316-9d6a-4db6-876a-83fcb7f6bc75" valueTypeId="908ab9ad-05ea-4796-a624-bded348fbbff"/>
+    <managerType typeId="5050cbfa-4ef8-4863-8e6d-b053315cc82c" valueTypeId="1e08e2c7-0f32-4071-8461-764178ea622c"/>
   </producedTypes>
   <name>ВКМ_РасходЗапланированныхОтпусков</name>
   <synonym>
@@ -11,7 +11,7 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <mainDataCompositionSchema>Report.ВКМ_РасходЗапланированныхОтпусков.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
-  <templates uuid="ba73bbbe-4397-4425-910e-4a76211ade47">
+  <templates uuid="23c71103-22aa-4cc5-b767-554ddd551f4e">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
       <key>ru</key>

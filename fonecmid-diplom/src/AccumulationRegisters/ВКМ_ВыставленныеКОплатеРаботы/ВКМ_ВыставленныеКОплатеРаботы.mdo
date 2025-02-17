@@ -16,22 +16,6 @@
   <useStandardCommands>true</useStandardCommands>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
-  <resources uuid="b40acfad-bd31-4972-a5b3-a22d05911a7b">
-    <name>КоличествоЧасов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Количество часов</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>5</precision>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </resources>
   <resources uuid="696639e5-a463-4b84-837f-6eb2f79726c5">
     <name>СуммаКОплате</name>
     <synonym>
@@ -48,20 +32,6 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <dimensions uuid="f38ec2a6-17dd-44fa-b8a2-2ca22c38879a">
-    <name>Клиент</name>
-    <synonym>
-      <key>ru</key>
-      <value>Клиент</value>
-    </synonym>
-    <type>
-      <types>CatalogRef.Контрагенты</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <useInTotals>true</useInTotals>
-  </dimensions>
   <dimensions uuid="d5b3198d-aa14-497f-be60-a9925ba976ce">
     <name>Договор</name>
     <synonym>

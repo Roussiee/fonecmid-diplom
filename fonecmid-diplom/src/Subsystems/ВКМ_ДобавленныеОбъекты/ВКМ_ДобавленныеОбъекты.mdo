@@ -36,10 +36,10 @@
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
-  <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>AccumulationRegister.ВКМ_ВыставленныеКОплатеРаботы</content>
   <content>Report.ВКМ_РасчетыССотрудниками</content>
   <content>AccumulationRegister.ВКМ_ДниОтпуска</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <subsystems>ВКМ_ОбслуживаниеКлиентов</subsystems>
 </mdclass:Subsystem>

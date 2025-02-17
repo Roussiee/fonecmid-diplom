@@ -16,8 +16,13 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <periodicity>Month</periodicity>
+  <basePeriod>true</basePeriod>
   <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_Удержания</chartOfCalculationTypes>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <listPresentation>
+    <key>ru</key>
+    <value>Удержания</value>
+  </listPresentation>
   <resources uuid="369ebeed-3c88-484c-b6f9-1d8e5ca6dcef">
     <name>Результат</name>
     <synonym>
@@ -27,7 +32,7 @@
     <type>
       <types>Number</types>
       <numberQualifiers>
-        <precision>10</precision>
+        <precision>15</precision>
       </numberQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -43,7 +48,7 @@
     <type>
       <types>Number</types>
       <numberQualifiers>
-        <precision>10</precision>
+        <precision>15</precision>
         <scale>2</scale>
       </numberQualifiers>
     </type>

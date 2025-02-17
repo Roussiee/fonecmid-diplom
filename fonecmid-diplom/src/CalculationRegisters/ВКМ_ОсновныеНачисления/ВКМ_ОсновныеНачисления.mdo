@@ -57,10 +57,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </resources>
   <resources uuid="1cc8bca7-b65f-474f-b13a-b02cc01e0fa4">
-    <name>КалендарныеДни</name>
+    <name>ОтработаноДней</name>
     <synonym>
       <key>ru</key>
-      <value>Календарные дни</value>
+      <value>Отработано дней</value>
     </synonym>
     <type>
       <types>Number</types>
